@@ -1,4 +1,4 @@
-#N canvas 373 376 259 286 10;
+#N canvas 371 409 293 283 10;
 #X obj 84 13 inlet;
 #X obj 84 39 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
 -1;
@@ -14,7 +14,6 @@
 #X obj 136 242 outlet;
 #X obj 84 112 metro 0.01;
 #X obj 136 13 inlet;
-#X text 215 14;
 #X connect 0 0 1 0;
 #X connect 1 0 2 0;
 #X connect 2 0 8 0;
